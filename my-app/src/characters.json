@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Link",
+    "image": "https://img00.deviantart.net/4cdb/i/2013/132/0/7/ike_and_link____fight_by_sugarpoultry-d6512x4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Princess Zelda",
+    "image": "http://i0.kym-cdn.com/photos/images/original/001/100/797/8ca.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "FSB_SHEILD",
+    "image": "https://vignette.wikia.nocookie.net/callofduty/images/2/24/FSB_shield_blocking_a_bullet.jpg/revision/latest?cb=20101020213714",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Epona",
+    "image": "https://static.giantbomb.com/uploads/scale_small/1/14898/365532-epona_2.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Sheik",
+    "image": "http://oyster.ignimgs.com/mediawiki/apis.ign.com/super-smash-bros-next/thumb/3/35/Timeline_shiek.png/468px-Timeline_shiek.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Malon",
+    "image": "https://i.ytimg.com/vi/KEyZT3QGbvY/maxresdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Princess Ruto",
+    "image": "https://orig00.deviantart.net/6b4d/f/2012/135/c/1/zora_twins_prince_rairette_and_princess_raira_by_rutogirl-d4zugim.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Nabooru",
+    "image": "https://i.pinimg.com/736x/fc/21/8d/fc218d9d28175b1d9f5c60e2ecc5acb0--night-elf-dark-elf.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Impa",
+    "image": "https://orig00.deviantart.net/87b9/f/2016/108/3/c/impa_and_cia_by_adeptusinfinitus-d9zd684.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Darunia",
+    "image": "https://vignette.wikia.nocookie.net/zelda/images/4/41/Hyrule_Warriors_Darunia_Standard_Outfit_%28Darbus_Recolor_-_Twilight_Princess_DLC%29.png/revision/latest?cb=20160512203148",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Navi",
+    "image": "https://ic1.maxabout.us/autos/tw_india//N/2016/2/new-honda-navi-street-p.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Saria",
+    "image": "https://vignette.wikia.nocookie.net/zelda/images/b/b5/Saria.png/revision/latest?cb=20100327013827",
+    "clicked": false
+  }
+]
