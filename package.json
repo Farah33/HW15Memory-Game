@@ -1,0 +1,22 @@
+{
+  "name": "hw15memory-game",
+  "version": "1.0.0",
+  "description": "create a memory game with React  Break up your application's UI into components  manage component state, and respond to user events.  every game should be click once",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farah33/HW15Memory-Game.git"
+  },
+  "author": "khadija",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farah33/HW15Memory-Game/issues"
+  },
+  "homepage": "https://github.com/Farah33/HW15Memory-Game#readme",
+  "dependencies": {
+    "npm": "^6.0.0"
+  }
+}
