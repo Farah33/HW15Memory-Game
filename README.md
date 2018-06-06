@@ -1,15 +1,14 @@
  # About
- create a memory game with React
- Break up your application's UI into components
- manage component state, and respond to user events.
- every game should be click once
- 
- # Technolgy used
- HTML, CSS, javascript, express, Node.js, and React
- 
- # motivation
- understanding how react are use building an app
- 
- # Project installation
- open any browser to start up.
+A simple memory game-- Don't click the same character twice!
 
+# Motivation
+Project demonstrating basic usage of React
+
+# Installation
+Open in any browser
+
+# Technologies Used
+HTML, CSS, Materialize, Node.js, React
+
+# License
+MIT License
